@@ -5,9 +5,9 @@ MetroViz: Visual Analysis of Public Transportation Data, Blacksburg, VA.
 Demo Video
 ==========
 
-An video overview of the project is available here:
+An demo of the project is available here:
 
-https://www.dropbox.com/s/2xegv0se9drlf90/MetroViz.mp4
+http://vimeo.com/81189035
 
 Usage
 =====
