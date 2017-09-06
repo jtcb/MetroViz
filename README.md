@@ -11,9 +11,7 @@ http://vimeo.com/81189035
 
 Usage
 =====
-Running MetroViz requires python2 or python3 with cherrypy installed and the following database file (too large to be included directly in the git repo):
-
-https://www.dropbox.com/s/tj05gb5d0mi8zuq/Metroviz.zip
+Running MetroViz requires python2 or python3 with cherrypy installed and the Metroviz.db data file (extract the split archive from data.zip and data.z01)
 
 git clone the project to obtain the source code and extract the Metroviz.db file in the root (MetroViz) directory.
 
